@@ -7,12 +7,12 @@ public class Logbook {
     public User register() {
         System.out.println("ENTER YOUR REGISTRATION ID:");
         int id = s.nextInt();
-        s.nextLine(); // Consume newline left-over
+        s.nextLine(); 
         System.out.println("ENTER YOUR NAME:");
         String nm = s.nextLine();
         System.out.println("ENTER YOUR AGE:");
         int age = s.nextInt();
-        s.nextLine(); // Consume newline left-over
+        s.nextLine(); 
         System.out.println("ENTER YOUR EMAIL:");
         String eml = s.nextLine();
         String uname = nm + "@logbook";
