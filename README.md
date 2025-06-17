@@ -1,6 +1,5 @@
 VaultAccess Manager Project (Core Java)
-
-VaultAccess Manager is a Core Java application designed to securely manage and control access to confidential information. It provides a command-line interface for storing, retrieving, updating, and deleting sensitive data while ensuring secure user authentication.
+It is a Core Java application designed to securely manage and control access to confidential information. It provides a command-line interface for storing, retrieving, updating, and deleting sensitive data while ensuring secure user authentication.
  Features
  User Registration – Users can register by providing details such as ID, Name, Age, and Email. The system auto-generates a unique username and a secure password.
  Secure Login – Users can log in using their username and password. Credentials are verified for authentication.
